@@ -8,6 +8,8 @@ Implicit Dual-domain Convolutional Network for Robust Color Image Compression Ar
 ### Dual-domain Correction Unit
 ![Error](https://github.com/zhenngbolun/IDCN/blob/master/Fig6.png)
 
+## Position Labeling
+![Error](https://github.com/zhenngbolun/IDCN/blob/master/position labeling.png)
 ## Results
 ![Error](https://github.com/zhenngbolun/IDCN/blob/master/color_result.png)
 * Here all the results of compared methods are REPRODUCED by ourself. 
