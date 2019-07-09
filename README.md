@@ -14,6 +14,7 @@ Implicit Dual-domain Convolutional Network for Robust Color Image Compression Ar
 ![Error](https://github.com/zhenngbolun/IDCN/blob/master/color_result.png)
 * Here all the results of compared methods are REPRODUCED by ourself. 
 * All the methods are trained on DIV2K with learning rate from 0.0001 to 0.000001.
+* Several pre-trained models can be downloaded at https://pan.baidu.com/s/1SK26KzV4SfyWSc09ehwnrg password: hp6v 
 
 ## Runing Times
 ![Error](https://github.com/zhenngbolun/IDCN/blob/master/fig11.png)
