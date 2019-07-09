@@ -15,7 +15,16 @@ Implicit Dual-domain Convolutional Network for Robust Color Image Compression Ar
 * Here all the results of compared methods are REPRODUCED by ourself. 
 * All the methods are trained on DIV2K with learning rate from 0.0001 to 0.000001.
 
+## Runing Times
+![Error](https://github.com/zhenngbolun/IDCN/blob/master/fig11.png)
 
-![Error](https://github.com/zhenngbolun/IDCN/blob/master/Fig7.png)
-![Error](https://github.com/zhenngbolun/IDCN/blob/master/Fig9.png)
+## Dual-domain Correction
+![Error](https://github.com/zhenngbolun/IDCN/blob/master/fig9.png)
+
+## Robust JPEG Compression Artifact Reduction
+![Error](https://github.com/zhenngbolun/IDCN/blob/master/fig12.png)
+
+## Qualitative Results
+![Error](https://github.com/zhenngbolun/IDCN/blob/master/fig10.png)
+![Error](https://github.com/zhenngbolun/IDCN/blob/master/fig13.png)
  
