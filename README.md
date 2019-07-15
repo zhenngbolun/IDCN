@@ -1,5 +1,6 @@
 # IDCN
 Implicit Dual-domain Convolutional Network for Robust Color Image Compression Artifact Reduction
+https://arxiv.org/abs/1810.08042
 
 ## Network Architecture
 ### Architecture
