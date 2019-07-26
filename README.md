@@ -1,19 +1,19 @@
 # IDCN
-Implicit Dual-domain Convolutional Network for Robust Color Image Compression Artifact Reduction
-B. Zheng, Y. Chen, X. Tian, F. Zhou and X. Liu, "Implicit Dual-domain Convolutional Network for Robust Color Image Compression Artifact Reduction," in IEEE Transactions on Circuits and Systems for Video Technology.
+Implicit Dual-domain Convolutional Network for Robust Color Image Compression Artifact Reduction  
+  
+    
+B. Zheng, Y. Chen, X. Tian, F. Zhou and X. Liu, "Implicit Dual-domain Convolutional Network for Robust Color Image Compression Artifact Reduction," in IEEE Transactions on Circuits and Systems for Video Technology.  
 doi: 10.1109/TCSVT.2019.2931045
 
+  
 @ARTICLE{8772137, 
-author={B. {Zheng} and Y. {Chen} and X. {Tian} and F. {Zhou} and X. {Liu}}, 
-journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-title={Implicit Dual-domain Convolutional Network for Robust Color Image Compression Artifact Reduction}, 
-year={2019}, 
-volume={}, 
-number={}, 
-pages={1-1}, 
-doi={10.1109/TCSVT.2019.2931045}, 
-ISSN={1051-8215}, 
-month={},}
+author={B. {Zheng} and Y. {Chen} and X. {Tian} and F. {Zhou} and X. {Liu}},  
+journal={IEEE Transactions on Circuits and Systems for Video Technology},  
+title={Implicit Dual-domain Convolutional Network for Robust Color Image Compression Artifact Reduction},  
+year={2019},  
+doi={10.1109/TCSVT.2019.2931045},  
+ISSN={1051-8215},  
+}
 
 ## Network Architecture
 ### Architecture
