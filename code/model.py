@@ -172,7 +172,7 @@ def RDN_JPEG(N=8, channel = 1, cp=True):
 		if cp:
 			t = DenseLayer(nFilters=64,depth=2,useBias=False)(x)
 		else:
-			for i in range(8-1):
+			for i in range(10-1):
 				if i == 0:
 					t = conv_relu(x, 64, 3, use_bias=False)
 					t = layers.Concatenate(axis=-1)([x,t])
