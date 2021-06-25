@@ -6,13 +6,15 @@ B. Zheng, Y. Chen, X. Tian, F. Zhou and X. Liu, "Implicit Dual-domain Convolutio
 doi: 10.1109/TCSVT.2019.2931045
 
   
-@ARTICLE{8772137,  
-author={B. {Zheng} and Y. {Chen} and X. {Tian} and F. {Zhou} and X. {Liu}},  
-journal={IEEE Transactions on Circuits and Systems for Video Technology},  
-title={Implicit Dual-domain Convolutional Network for Robust Color Image Compression Artifact Reduction},  
-year={2019},  
-doi={10.1109/TCSVT.2019.2931045},  
-ISSN={1051-8215},  
+@article{zheng2019implicit,
+  title={Implicit dual-domain convolutional network for robust color image compression artifact reduction},
+  author={Zheng, Bolun and Chen, Yaowu and Tian, Xiang and Zhou, Fan and Liu, Xuesong},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  volume={30},
+  number={11},
+  pages={3982--3994},
+  year={2019},
+  publisher={IEEE}
 }
 
 ## Network Architecture
