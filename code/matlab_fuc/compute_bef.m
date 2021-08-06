@@ -21,6 +21,8 @@ V_bc = setxor(V, V_b);
 D_b = 0;
 D_bc = 0;
 
+im = double(im)
+
 for i = H_b
     diff = im(: , i) - im(: , i + 1);
     D_b = D_b + sum(diff.^2);
